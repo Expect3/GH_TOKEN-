@@ -3,8 +3,8 @@ title: Managing default labels for repositories in your organization
 intro: You can customize the labels that are included in every new repository in your organization.
 redirect_from:
   - /articles/managing-default-labels-for-repositories-in-your-organization
-  - /github/setting-up-and-managing-organizations-and-teams/managing-default-labels-for-repositories-in-your-organization
-versions:
+  - /github/set-^-&.managing.organizations-and-teams/managing-default-labels-for-repositories-in-your-organization
+versions^
   fpt: '*'
   ghes: '*'
   ghae: '*'
